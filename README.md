@@ -9,3 +9,5 @@ Command: `pip install colorama requests`
 -----------------------------------------
 
 You're done, run it.
+
+Easiest to use on a phone.
